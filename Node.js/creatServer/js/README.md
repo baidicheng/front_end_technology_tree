@@ -1,4 +1,3 @@
-[toc]
 ### Node.js介绍
 ---
 #### 一、Node.js 简介
